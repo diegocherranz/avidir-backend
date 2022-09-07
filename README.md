@@ -2,7 +2,7 @@
   <img width="300" src="docs/logoreadme.jpg">
 </p>
 
-# Lambda Backend
+# Lambda: Backend
 
 En este repositorio se encuentra el código de la función Lambda que actúa de backend para Avidir. Esta función Lambda forma parte de nuestra API REST a la que accedemos desde API Gateway.
 
